@@ -12,7 +12,6 @@ import {
 } from "@chakra-ui/react";
 import { EmailIcon, LockIcon } from "@chakra-ui/icons";
 import logo from "../../images/ShareVel.svg";
-// import MdAccountCircle from "react-icons/md";
 
 export const CreateAccount = () => {
   const [show, setShow] = React.useState(false);
